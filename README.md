@@ -26,10 +26,3 @@ Steps to work with this application
 10. Goto your favorite browser and type http://localhost:8080
 
 11. And you are good to go. 
-
-
-TO DO
-============
-
-Search for a specific artist
-
