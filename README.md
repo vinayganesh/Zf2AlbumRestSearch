@@ -5,9 +5,9 @@ A zend framework 2 Album Rest api with search functionality
 
 Steps to work with this application
 
-1. Clone the repo```git clone https://github.com/vinayganesh/ZF2AlbumRestSearch.git```
+1. Clone the repo```git clone https://github.com/vinayganesh/Zf2AlbumRestSearch.git```
 
-2. Get into the project ```cd ZF2AlbumRestSearch```
+2. Get into the project ```cd Zf2AlbumRestSearch```
 
 3. Update composer```php composer.phar self-update```
 
